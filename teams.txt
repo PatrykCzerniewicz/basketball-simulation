@@ -1,0 +1,30 @@
+Golden State,Warriors,West,Pacific,1000,1001,1002,1003,1004
+Toronto,Raptors,East,Atlantic,1005,1006,1007,1008,1009
+Milwaukee,Bucks,East,Central,1010,1011,1012,1013,1014
+Philadelphia,76ers,East,Atlantic,1015,1016,1017,1018,1019
+Los Angeles,Lakers,West,Pacific,1020,1021,1022,1023,1024
+Los Angeles,Clippers,West,Pacific,1025,1026,1027,1028,1029
+Brooklyn,Nets,East,Atlantic,1030,1031,1032,1033,1034
+Houston,Rockets,West,Southwest,1035,1036,1037,1038,1039
+New Orleans,Pelicans,West,Southwest,1040,1041,1042,1043,1044
+Indiana,Pacers,East,Central,1045,1046,1047,1048,1049
+Boston,Celtics,East,Atlantic,1050,1051,1052,1053,1054
+Miami,Heat,East,Southeast,1055,1056,1057,1058,1059
+Dallas,Mavericks,West,Southwest,1060,1061,1062,1063,1064
+Phoenix,Suns,West,Pacific,1065,1066,1067,1068,1069
+Utah,Jazz,West,Northwest,1070,1071,1072,1073,1074
+Denver,Nuggets,West,Northwest,1075,1076,1077,1078,1079
+Portland,Trail Blazers,West,Northwest,1080,1081,1082,1083,1084
+San Antonio,Spurs,West,Southwest,1085,1086,1087,1088,1089
+Chicago,Bulls,East,Central,1090,1091,1092,1093,1094
+Atlanta,Hawks,East,Southeast,1095,1096,1097,1098,1099
+Minnesota,Timberwolves,West,Northwest,1100,1101,1102,1103,1104
+Detroit,Pistons,East,Central,1105,1106,1107,1108,1109
+Orlando,Magic,East,Southeast,1110,1111,1112,1113,1114
+Memphis,Grizzlies,West,Southwest,1115,1116,1117,1118,1119
+Oklahoma City,Thunder,West,Northwest,1120,1121,1122,1123,1124
+Cleveland,Cavaliers,East,Central,1125,1126,1127,1128,1129
+Washington,Wizards,East,Southeast,1130,1131,1132,1133,1134
+New York,Knicks,East,Atlantic,1135,1136,1137,1138,1139
+Charlotte,Hornets,East,Southeast,1140,1141,1142,1143,1144
+Sacramento,Kings,West,Pacific,1145,1146,1147,1148,1149

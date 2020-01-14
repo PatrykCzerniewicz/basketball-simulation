@@ -1,0 +1,150 @@
+1000,Stephen,Curry,Davidson,75,30,79,99,74,50
+1001,D'Angelo,Russell,Ohio State,76,0,78,88,76,60
+1002,Klay,Thompson,Washington State,78,11,78,98,92,60
+1003,Draymond,Green,Michigan State,79,23,78,70,94,86
+1004,Willie,Cauley-Stein,Kentucky,84,2,90,45,80,89
+1005,Kyle,Lowry,Villanova,72,7,77,85,85,66
+1006,Fred,VanVleet,Wichita State,73,23,70,84,82,50
+1007,Pascal,Siakam,New Mexico State,81,43,88,85,84,87
+1008,Serge,Ibaka,Congo,84,9,85,75,90,85
+1009,Marc,Gasol,Spain,83,33,85,83,90,84
+1010,Eric,Bledsoe,Kentucky,73,6,90,74,95,60
+1011,Wesley,Matthews,Marquette,76,9,76,86,75,65
+1012,Khris,Middleton,Texas A&M,80,22,79,88,89,68
+1013,Giannis,Antetokounmpo,Greece,83,34,99,68,95,93
+1014,Brook,Lopez,Stanford,84,11,90,80,73,85
+1015,Ben,Simmons,LSU,83,25,94,45,80,90
+1016,Josh,Richardson,Tennessee,77,0,82,75,84,70
+1017,Tobias,Harris,Tennessee,80,12,87,85,80,85
+1018,Al,Horford,Florida,81,42,82,81,88,85
+1019,Joel,Embiid,Kansas,84,21,96,83,85,90
+1020,Rajon,Rondo,Kentucky,73,9,77,73,82,70
+1021,Danny,Green,North Carolina,78,14,70,95,82,59
+1022,LeBron,James,St. Vincent - St.Mary (HS),80,23,98,75,80,85
+1023,Anthony,Davis,Kentucky,82,3,97,73,97,90
+1024,JaVale,McGee,Nevada,-,7,-,-,85,-
+1025,Patrick,Beverley,Arkansas,73,21,70,74,96,67
+1026,Lou,Williams,South Gwinnett (HS),73,23,80,92,70,58
+1027,Kawhi,Leonard,San Diego State,79,2,94,93,97,85
+1028,Paul,George,Fresno State,81,13,92,95,94,83
+1029,Montrezl,Harrell,Louisville,79,5,95,40,82,87
+1030,Kyrie,Irving,Duke,74,2,89,88,78,70
+1031,Joe,Harris,Virginia,78,12,72,95,72,70
+1032,Kevin,Durant,Texas,83,35,96,98,85,85
+1033,Jarrett,Allen,Texas,83,31,90,40,88,90
+1034,DeAndre,Jordan,Texas A&M,83,6,95,25,90,98
+1035,Russell,Westbrook,California-Los Angeles,75,0,94,70,86,93
+1036,Eric,Gordon,Indiana,76,10,78,92,74,68
+1037,James,Harden,Arizona State,77,13,90,97,73,83
+1038,P.J.,Tucker,Texas,78,17,78,86,88,79
+1039,Clint,Capela,Switzerland,82,15,92,25,87,85
+1040,Jrue,Holiday,California-Los Angeles,76,2,83,85,93,78
+1041,J.J.,Redick,Duke,76,17,68,96,70,55
+1042,Brandon,Ingram,Duke,79,14,85,90,73,75
+1043,Zion,Williamson,Duke,78,1,99,56,83,88,34,95,30,85
+1044,Jahlil,Okafor,Duke,82,8,90,30,79,83
+1045,Malcolm,Brogdon,Virginia,77,13,81,84,86,70
+1046,Victor,Oladipo,Indiana,76,4,90,88,91,75
+1047,T.J.,Warren,North Carolina State,80,1,83,78,75,80
+1048,Domantas,Sabonis,Lithuania,83,11,92,80,80,91
+1049,Myles,Turner,Texas,83,33,90,83,90,87
+1050,Kemba,Walker,Connecticut,72,8,89,90,80,68
+1051,Jaylen,Brown,California-Berkeley,78,7,86,80,89,75
+1052,Jayson,Tatum,Duke,80,0,89,94,81,80
+1053,Gordon,Hayward,Butler,79,20,86,87,83,80
+1054,Enes,Kanter,Turkey,83,11,89,71,77,90
+1055,Goran,Dragić,Slovenia,75,7,80,84,80,65
+1056,Kendrick,Nunn,Oakland,74,25,83,85,80,63
+1057,Jimmy,Butler,Marquette,79,23,85,85,89,73
+1058,Justise,Winslow,Duke,78,20,86,76,85,84
+1059,Bam,Adebayo,Kentucky,81,13,90,55,82,93
+1060,Luka,Dončić,Slovenia,79,77,87,93,80,83
+1061,Seth,Curry,Duke,74,30,73,92,77,65
+1062,Tim,Hardaway Jr.,Michigan,78,11,78,84,80,74
+1063,Kristaps,Porzingis,Latvia,87,6,88,86,85,87
+1064,Boban,Marjanović,Serbia,87,51,93,60,83,90
+1065,Ricky,Rubio,Spain,-,11,-,-,87,-
+1066,Devin,Booker,Kentucky,-,1,-,-,73,-
+1067,Kelly,Oubre,Kansas,-,12,-,-,78,-
+1068,Dario,Šarić,Croatia,-,20,-,-,80,-
+1069,Deandre,Ayton,Arizona,-,22,-,-,90,-
+1070,Mike,Conley,Ohio State,-,10,-,-,86,-
+1071,Donovan,Mitchell,Louisville,-,45,-,-,84,-
+1072,Joe,Ingles,Australia,-,2,-,-,80,-
+1073,Bojan,Bogdanović,Croatia,-,44,-,-,77,-
+1074,Rudy,Gobert,France,-,27,-,-,99,-
+1075,Jamal,Murray,Kentucky,-,27,-,-,83,-
+1076,Gary,Harris,Michigan State,-,14,-,-,83,-
+1077,Will,Barton,Memphis,-,5,-,-,85,-
+1078,Paul,Millsap,Louisiana Tech,-,4,-,-,90,-
+1079,Nikola,Jokić,Serbia,-,15,-,-,80,-
+1080,Damian,Lillard,Weber State,-,0,-,-,75,-
+1081,C.J.,McCollum,Lehigh,-,3,-,-,76,-
+1082,Carmelo,Anthony,Syracuse,-,00,-,-,78,-
+1083,Jusuf,Nurkić,Bosnia and Herzegovina,-,27,-,-,79,-
+1084,Hassan,Whiteside,Marshall,-,21,-,-,93,-
+1085,Dejounte,Murray,Washington,-,5,-,-,95,-
+1086,Bryn,Forbes,Michigan State,-,11,-,-,74,-
+1087,DeMar,DeRozan,Southern California,-,10,-,-,85,-
+1088,Rudy,Gay,Houston,-,22,-,-,82,-
+1089,LaMarcus,Aldridge,Texas,-,12,-,-,80,-
+1090,Kris,Dunn,Providence,-,32,-,-,87,-
+1091,Zach,LaVine,California-Los Angeles,-,8,-,-,74,-
+1092,Otto,Porter,Georgetown,-,22,-,-,85,-
+1093,Lauri,Markkanen,Finland,-,24,-,-,80,-
+1094,Wendell,Carter Jr.,Duke,-,34,-,-,88,-
+1095,Trae,Young,Oklahoma,-,11,-,-,67,-
+1096,DeAndre',Bembry,St. Joseph's,-,95,-,-,86,-
+1097,De'Andre,Hunter,Virginia,-,12,-,-,82,-
+1098,Jabari,Parker,Duke,-,5,-,-,74,-
+1099,John,Collins,Wake Forest,-,20,-,-,84,-
+1100,Jeff,Teague,Wake Forest,-,0,-,-,80,-
+1101,Jarrett,Culver,Texas Tech,-,23,-,-,83,-
+1102,Andrew,Wiggins,Kansas,-,22,-,-,76,-
+1103,Robert,Covington,Tennessee Tech,-,33,-,-,94,-
+1104,Karl-Anthony,Towns,Kentucky,-,32,-,-,83,-
+1105,Derrick,Rose,Memphis,-,25,-,-,80,-
+1106,Luke,Kennard,Duke,-,5,-,-,74,-
+1107,Tony,Snell,New Mexico,-,17,-,-,86,-
+1108,Blake,Griffin,Oklahoma,-,23,-,-,84,-
+1109,Andre,Drummond,Connecticut,-,0,-,-,92,-
+1110,D.J.,Augustin,Texas,-,14,-,-,78,-
+1111,Evan,Fournier,France,-,10,-,-,74,-
+1112,Jonathan,Isaac,Florida State,-,1,-,-,89,-
+1113,Aaron,Gordon,Arizona,-,00,-,-,84,-
+1114,Nikola,Vucević,Southern California,-,9,-,-,82,-
+1115,Ja,Morant,Murray State,-,2,-,-,80,-
+1116,Dillon,Brooks,Oregon,-,24,-,-,74,-
+1117,Jae,Crowder,Marquette,-,99,-,-,85,-
+1118,Jaren,Jackson Jr.,Michigan State,-,13,-,-,84,-
+1119,Jonas,Valančiunas,Lithuania,-,17,-,-,82,-
+1120,Chris,Paul,Wake Forest,-,3,-,-,85,-
+1121,Shai,Gilgeous-Alexander,Kentucky,-,2,-,-,83,-
+1122,Terrance,Ferguson,Advanced Prep Intl (HS),-,23,-,-,75,-
+1123,Danilo,Gallinari,Italy,-,8,-,-,77,-
+1124,Steven,Adams,Pittsburgh,-,12,-,-,87,-
+1125,Collin,Sexton,Alabama,-,2,-,-,82,-
+1126,Jordan,Clarkson,Missouri,-,8,-,-,75,-
+1127,Cedi,Osman,Turkey,-,16,-,-,77,-
+1128,Kevin,Love,California-Los Angeles,-,0,-,-,78,-
+1129,Tristan,Thompson,Texas,-,13,-,-,80,-
+1130,Isaiah,Thomas,Washington,-,4,-,-,69,-
+1131,Bradley,Beal,Florida,-,3,-,-,75,-
+1132,Rui,Hachimura,Gonzaga,-,8,-,-,79,-
+1133,Davis,Bertans,Latvia,-,42,-,-,74,-
+1134,Thomas,Bryant,Indiana,-,13,-,-,81,-
+1135,Elfrid,Payton,Louisiana-Lafayette,-,6,-,-,82,-
+1136,R.J.,Barrett,Duke,-,9,-,-,75,-
+1137,Marcus,Morris,Kansas,-,13,-,-,80,-
+1138,Julius,Randle,Kentucky,-,30,-,-,82,-
+1139,Mitchell,Robinson,Western Kentucky,-,23,-,-,91,-
+1140,Terry,Rozier,Louisville,-,3,-,-,85,-
+1141,Devonte',Graham,Kansas,-,4,-,-,77,-
+1142,Miles,Bridges,Michigan State,-,0,-,-,82,-
+1143,P.J.,Washington,Kentucky,-,25,-,-,81,-
+1144,Cody,Zeller,Indiana,-,40,-,-,80,-
+1145,De'Aaron,Fox,Kentucky,-,5,-,-,80,-
+1146,Buddy,Hield,Oklahoma,-,24,-,-,75,-
+1147,Bogdan,Bogdanović,Serbia,-,8,-,-,77,-
+1148,Harrison,Barnes,North Carolina,-,40,-,-,79,-
+1149,Marvin,Bagley III,Duke,-,35,-,-,79,-
